@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+venv/
+env/
+.venv/
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+!.env.example
+
+# Python Cache & SQLite DB
+__pycache__/
+*.py[cod]
+*$py.class
+*.sqlite3
+*.db
+backend/sql_app.db
+backend/sql_app_backup.db
+
+# Build Outputs
+dist/
+dist-ssr/
+*.local
+*.tsbuildinfo
+
+# Logs
+logs/
+*.log
+
+# Editor & System
+.vscode/*
+!.vscode/extensions.json
+.idea/
+.DS_Store
+Thumbs.db
+
+# Backup Archives
+*.zip
