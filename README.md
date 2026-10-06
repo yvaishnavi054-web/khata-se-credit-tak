@@ -2,6 +2,15 @@
 > **"Speak. Understand. Grow."** — *From daily spoken records to formal financial credit readiness.*  
 > **Built by Team RootAccess · SHE SOLVES 3.0 Hackathon**
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-black?style=for-the-badge&logo=vercel)](https://khata-se-credit-tak.vercel.app)
+[![Backend API](https://img.shields.io/badge/Backend%20API-Render-46E3B7?style=for-the-badge&logo=render)](https://khata-se-credit-tak-api.onrender.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/yvaishnavi054-web/khata-se-credit-tak)
+
+### 🌐 Live Deployment Links
+* **Live Web Prototype (Vercel):** [https://khata-se-credit-tak.vercel.app](https://khata-se-credit-tak.vercel.app)
+* **Live Backend API (Render):** [https://khata-se-credit-tak-api.onrender.com](https://khata-se-credit-tak-api.onrender.com)
+* **1-Click Evaluation / Demo Mode:** Click **"Explore Demo Account (Meena Tai)"** on the landing page for immediate walkthrough with 90-day realistic financial data.
+
 ---
 
 ## 🌟 Executive Summary
